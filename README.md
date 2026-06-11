@@ -96,9 +96,9 @@ My personal portfolio where I showcase projects, skills, and professional growth
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=transparent"/>
 
 </div>
 
@@ -108,7 +108,7 @@ My personal portfolio where I showcase projects, skills, and professional growth
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaulSantor&theme=github-compact"/>
 
 </div>
 
