@@ -1,61 +1,79 @@
-<h1 align="center">Hola, soy Saul Santor 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer · Estudiante de Ingeniería de Software</h3>
+# Hola, soy Saul Santor 👋
+
+### Full Stack Developer · Estudiante de Ingeniería de Software
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77EFF&center=true&vCenter=true&width=500&lines=Frontend+focused+developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+apps)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  Desarrollador Full Stack con enfoque principal en <strong>Frontend</strong>. Me apasiona crear aplicaciones web modernas,
-  intuitivas y de alto rendimiento, combinando diseño, experiencia de usuario y código limpio.
-  Disfruto transformar ideas en productos digitales reales y continuar aprendiendo nuevas tecnologías.
-</p>
+</div>
 
-<br/>
+---
+
+## 🧑‍💻 Sobre mí
+
+Desarrollador Full Stack y estudiante de Ingeniería de Software, con un enfoque principal en **Frontend**.
+Me apasiona crear aplicaciones web modernas, intuitivas y de alto rendimiento, combinando diseño, experiencia de usuario y código limpio.
+
+He desarrollado proyectos con JavaScript, TypeScript, React, Next.js, Node.js, Python y bases de datos SQL.
+Disfruto transformar ideas en productos digitales reales y continuar aprendiendo nuevas tecnologías.
+
+- 📍 Chihuahua, México
+- 🎓 Estudiante de Ingeniería de Software
+- 💡 Siempre aprendiendo algo nuevo
+- 🚀 Open to work
 
 ---
 
 ## 🛠️ Stack tecnológico
 
 **Frontend**
-> React · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS
+`React` `Next.js` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind CSS`
 
 **Backend**
-> Node.js · Express · Python · Flask · REST APIs
+`Node.js` `Express` `Python` `Flask` `REST APIs`
 
 **Bases de datos**
-> SQL Server · MySQL · PostgreSQL · MongoDB
+`SQL Server` `MySQL` `PostgreSQL` `MongoDB`
+
+**Herramientas**
+`Git` `GitHub` `VS Code`
 
 <br/>
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,nodejs,flask,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,nodejs,flask,mongodb,git,github,vscode&perline=12" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=SaulSantor&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" />
-</p>
+</div>
 
 ---
 
 ## 🏆 Trofeos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaulSantor&theme=radical&no-frame=true&column=6&margin-w=4" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaulSantor&theme=radical&no-frame=true&column=6&margin-w=6&margin-h=6" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Transformando ideas en productos digitales desde Chihuahua, México 🇲🇽</i>
-</p>
+<div align="center">
+  <i>Transformando ideas en productos digitales · Chihuahua, México 🇲🇽</i>
+</div>
