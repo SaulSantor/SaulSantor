@@ -1,12 +1,18 @@
 <div align="center">
 
-# Hi, I'm Saul Sánchez 👋
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="280"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications" />
+# Saul Sánchez
+
+### Frontend Developer • Computer Engineering Student
+
+Building modern, responsive and user-centered web experiences.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning+something+new" />
 
 <br>
 
-<a href="https://mi-portfolio-roan-delta.vercel.app/" target="_blank">
+<a href="https://mi-portfolio-roan-delta.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -14,7 +20,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/santor080602/" target="_blank">
+<a href="https://www.linkedin.com/in/santor080602/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,96 +28,113 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Frontend Developer with a strong passion for building modern, responsive, and user-friendly web applications.
+```javascript
+const saul = {
+  location: "Chihuahua, Mexico 🇲🇽",
+  role: "Frontend Developer",
+  education: "Computer Engineering Student",
+  mainStack: ["React", "Next.js", "TypeScript"],
+  currentlyLearning: ["Full Stack Development", "Software Architecture"],
+  interests: [
+    "Web Development",
+    "UI/UX",
+    "Clean Code",
+    "Technology"
+  ]
+};
+```
 
-My main focus is Frontend Development, where I enjoy transforming ideas into real products through clean code, intuitive interfaces, and scalable solutions.
+I enjoy transforming ideas into real digital products through clean code, intuitive interfaces, and modern technologies.
 
-Currently studying Computer Engineering while continuously expanding my knowledge of software development and modern technologies.
+My primary focus is Frontend Development, creating responsive and user-friendly applications while continuously expanding my backend knowledge.
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Building real-world projects
-- Advanced React & Next.js
-- Full Stack Development
-- Software Architecture
-- UI/UX Design
-- Clean Code Practices
+- Building impactful real-world projects
+- Deepening React & Next.js expertise
+- Learning scalable backend development
+- Writing cleaner and maintainable code
+- Improving UI/UX design skills
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
 </p>
 
-### Database
+### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,arduino" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Portfolio
+### Portfolio
 
-Personal website showcasing my projects, skills, and professional journey.
+Personal website where I showcase my projects, skills, and experience.
 
 <a href="https://github.com/SaulSantor/mi-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=mi-portfolio&theme=tokyonight" />
 </a>
 
----
+### Serenity
 
-### 🌱 Serenity
-
-A productivity and self-improvement platform focused on organization and personal growth.
+Productivity and self-improvement platform.
 
 <a href="https://github.com/SaulSantor/serenity-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=serenity-app&theme=tokyonight" />
 </a>
 
----
+### PsychCalendar
 
-### 🧠 PsychCalendar
-
-Mental wellness platform focused on emotional tracking and personal development.
+Mental wellness platform focused on emotional tracking and personal growth.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SaulSantor&theme=tokyonight" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -121,18 +144,20 @@ Mental wellness platform focused on emotional tracking and personal development.
 
 ---
 
-## Contributions Snake
+## 🐍 Contributions Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile
+### "Turning ideas into modern web experiences."
 
-Building modern experiences, learning every day, and turning ideas into reality.
+⭐ If you like my projects, feel free to explore my repositories.
 
 </div>
