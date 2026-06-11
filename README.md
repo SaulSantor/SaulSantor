@@ -51,7 +51,7 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,flask,mongodb,mysql,postgresql,git,github,figma,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,nodejs,fastapi,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
 
 </div>
 
