@@ -90,10 +90,11 @@ An automated management and clinic-log platform tailored for mental health profe
 </p>
 
 **Tech Stack**
+- **Frontend:** HTML5, CSS3, JavaScript, Jinja2 Templates
 - **Backend:** Python, Flask, SQLAlchemy (ORM), Alembic (Migrations)
 - **APIs & Integrations:** Google Calendar API (OAuth2), Twilio API (SMS/WhatsApp automated reminders)
 - **Data & Security:** Flask-Login, Flask-WTF (CSRF Protection), PyJWT, pyodbc
-- **Reporting:** ReportLab (Dynamic PDF generation), Pillow
+- **Reporting & Media:** ReportLab (Dynamic PDF generation), Pillow
 
 <a href="TU_DEMO">Live Demo</a> •
 <a href="https://github.com/SaulSantor/bitacora-psicologos">Repository</a>
@@ -109,7 +110,8 @@ A multidisciplinary mental wellness ecosystem that integrates a mobile applicati
 </p>
 
 **Tech Stack**
-- **Frontend & Mobile:** React Native, React, JavaScript, Custom CSS
+- **Mobile App:** React Native, JavaScript, Custom CSS
+- **Web App:** React, HTML5, CSS3, JavaScript
 - **Backend & API:** Python, Flask (RESTful API architecture)
 - **Database:** MongoDB (NoSQL tailored for continuous biometric streams)
 - **IoT & Hardware:** C/C++ firmware for microcontrollers, Heart Rate & Respiration sensors
