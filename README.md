@@ -28,7 +28,7 @@
 <p align="center">
     <p align="left">Frontend</p>
   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
