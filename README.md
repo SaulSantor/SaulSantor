@@ -1,36 +1,61 @@
-<h1 align="center">Hola 👋, soy Saul Santor</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hola, soy Saul Santor 👋</h1>
 
-<p align="center">Desarrollador Full Stack y estudiante de Ingeniería de Software, con un enfoque principal en Frontend. Me apasiona crear aplicaciones web modernas, intuitivas y de alto rendimiento, combinando diseño, experiencia de usuario y código limpio.</p>
-<p align="center">He desarrollado proyectos utilizando JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Node.js, Python y bases de datos SQL. Disfruto transformar ideas en productos digitales reales y continuar aprendiendo nuevas tecnologías para mejorar mis habilidades como desarrollador.</p>
+<h3 align="center">Full Stack Developer · Estudiante de Ingeniería de Software</h3>
 
-📍 Chihuahua, México
-
-## 🛠️ Tecnologías y herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,flask,fastapi,tailwind,css,html,git,mongodb&perline=8" />
-</p>
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaulSantor)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaulSantor&theme=bear)](https://git.io/streak-stats)
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaulSantor&theme=radical&hide_border=false&locale=es" />
+  Desarrollador Full Stack con enfoque principal en <strong>Frontend</strong>. Me apasiona crear aplicaciones web modernas,
+  intuitivas y de alto rendimiento, combinando diseño, experiencia de usuario y código limpio.
+  Disfruto transformar ideas en productos digitales reales y continuar aprendiendo nuevas tecnologías.
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaulSantor)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 
-## 🤝 Contacto
+---
 
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santor080602)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulsantor0806@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mi-portfolio-roan-delta.vercel.app/)
+## 🛠️ Stack tecnológico
+
+**Frontend**
+> React · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS
+
+**Backend**
+> Node.js · Express · Python · Flask · REST APIs
+
+**Bases de datos**
+> SQL Server · MySQL · PostgreSQL · MongoDB
+
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,nodejs,flask,mongodb,git,github,vscode" />
+  </a>
 </p>
 
 ---
-<p align="center">Generado con ❤️ usando readme.so, github-readme-stats y streak-stats</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulSantor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulSantor&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaulSantor&theme=radical&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaulSantor&theme=radical&no-frame=true&column=6&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <i>Transformando ideas en productos digitales desde Chihuahua, México 🇲🇽</i>
+</p>
