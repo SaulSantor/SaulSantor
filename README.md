@@ -81,7 +81,7 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 ## 🚀 Featured Projects
 
-### 📅 PsychCalendar (bitacora-psicologos)
+### 📅 PsychCalendar
 
 An automated management and clinic-log platform tailored for mental health professionals, streamlining patient scheduling and digital record-keeping.
 
