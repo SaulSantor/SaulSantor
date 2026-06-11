@@ -9,10 +9,6 @@ Frontend Developer • Computer Engineering Student
 </p>
 
 <p align="center">
-Passionate about building modern, scalable and user-friendly web applications.
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning.+Always+building." />
 </p>
 
@@ -77,7 +73,7 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,git,github,vscode,figma,vercel,arduino" />
 
 </div>
 
@@ -138,16 +134,6 @@ Personal website showcasing my projects, skills, and professional journey.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaulSantor&theme=tokyo-night"/>
 
 </div>
-
----
-
-## 🌎 Connect With Me
-
-<p align="center">
-  <a href="https://mi-portfolio-roan-delta.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/santor080602/">LinkedIn</a> •
-  <a href="mailto:saulsantor0806@gmail.com">Email</a>
-</p>
 
 ---
 
