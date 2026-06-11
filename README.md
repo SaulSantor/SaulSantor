@@ -85,25 +85,35 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 Mental wellness platform focused on emotional tracking, organization, and personal growth.
 
+<p align="center">
+  <img src="./assets/psychcalendar-preview.png" width="800"/>
+</p>
+
+**Tech Stack**
+- React
+- TypeScript
+- Tailwind CSS
+
+<a href="TU_DEMO">Live Demo</a> •
+<a href="TU_REPO">Repository</a>
+
+---
+
 ### 🌱 Serenity
 
-Productivity and habit-building application designed to improve daily routines and personal development.
+Productivity and habit-building application designed to improve daily routines.
 
-### 🌐 Portfolio
+<p align="center">
+  <img src="./assets/serenity-preview.png" width="800"/>
+</p>
 
-Personal website showcasing my projects, skills, and professional journey.
+**Tech Stack**
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-<div align="center">
-
-<a href="https://github.com/SaulSantor/mi-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=mi-portfolio&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/SaulSantor/serenity-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=serenity-app&theme=tokyonight"/>
-</a>
-
-</div>
+<a href="TU_DEMO">Live Demo</a> •
+<a href="TU_REPO">Repository</a>
 
 ---
 
