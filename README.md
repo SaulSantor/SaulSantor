@@ -119,24 +119,6 @@ A multidisciplinary mental wellness ecosystem that integrates a mobile applicati
 
 ---
 
-### 🌱 Serenity
-
-Productivity and habit-building application designed to improve daily routines.
-
-<p align="center">
-  <img src="./assets/serenity-preview.png" width="800"/>
-</p>
-
-**Tech Stack**
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-<a href="TU_DEMO">Live Demo</a> •
-<a href="https://github.com/SaulSantor/serenity-app">Repository</a>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
