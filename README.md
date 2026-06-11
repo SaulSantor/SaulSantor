@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   
    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
