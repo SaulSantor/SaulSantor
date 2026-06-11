@@ -9,7 +9,11 @@ Frontend Developer • Computer Engineering Student
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning.+Always+building." />
+Passionate about building modern, scalable and user-friendly web applications.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Creating+intuitive+user+experiences;Turning+ideas+into+digital+products;Always+learning.+Always+building." />
 </p>
 
 <p align="center">
@@ -32,29 +36,39 @@ Frontend Developer • Computer Engineering Student
 
 ```javascript
 const saul = {
-  location: "Chihuahua, Mexico 🇲🇽",
-  role: "Frontend Developer",
-  education: "Computer Engineering Student",
-  mainStack: ["React", "Next.js", "TypeScript"],
-  backend: ["Python", "Flask", "FastAPI"],
-  databases: ["MongoDB", "MySQL"],
+  building: [
+    "PsychCalendar 🧠",
+    "Serenity 🌱"
+  ],
+
+  workingWith: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Python"
+  ],
+
   currentlyLearning: [
-    "Full Stack Development",
-    "Software Architecture"
+    "Software Architecture",
+    "Full Stack Development"
   ],
+
   interests: [
-    "Web Development",
+    "Frontend Engineering",
     "UI/UX Design",
-    "Clean Code",
-    "Technology"
+    "Product Development",
+    "Clean Code"
   ],
-  motto: "Always learning. Always building."
+
+  lifeCycle: () => {
+    return "Learn → Build → Improve → Repeat";
+  }
 };
 ```
 
 I'm a Frontend Developer focused on creating modern web experiences through clean code, intuitive interfaces, and scalable solutions.
 
-Currently studying Computer Engineering while continuously improving my skills in frontend architecture, backend development, and software engineering.
+Currently studying Computer Engineering while building real-world applications and continuously improving my frontend, backend, and software engineering skills.
 
 ---
 
@@ -73,7 +87,7 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,git,github,vscode,figma,vercel,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
 
 </div>
 
@@ -83,41 +97,73 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 ### 📅 PsychCalendar
 
-An automated management and clinic-log platform tailored for mental health professionals, streamlining patient scheduling and digital record-keeping.
+Management and digital record platform designed for mental health professionals.
+
+#### Key Features
+
+- 📅 Automated appointment scheduling
+- 🔗 Google Calendar integration
+- 📲 SMS & WhatsApp reminders
+- 📄 Dynamic PDF reports
+- 🔐 Secure authentication and patient management
 
 <p align="center">
-  <img src="./assets/psychcalendar-preview.png" width="800"/>
+  <img src="./assets/psychcalendar-preview.png" width="850"/>
 </p>
 
-**Tech Stack**
-- **Frontend:** HTML5, CSS3, JavaScript, Jinja2 Templates
-- **Backend:** Python, Flask, SQLAlchemy (ORM), Alembic (Migrations)
-- **APIs & Integrations:** Google Calendar API (OAuth2), Twilio API (SMS/WhatsApp automated reminders)
-- **Data & Security:** Flask-Login, Flask-WTF (CSRF Protection), PyJWT, pyodbc
-- **Reporting & Media:** ReportLab (Dynamic PDF generation), Pillow
+#### Tech Stack
 
-<a href="TU_DEMO">Live Demo</a> •
-<a href="https://github.com/SaulSantor/bitacora-psicologos">Repository</a>
+- **Frontend:** HTML5, CSS3, JavaScript, Jinja2
+- **Backend:** Python, Flask, SQLAlchemy, Alembic
+- **Integrations:** Google Calendar API, Twilio API
+- **Security:** Flask-Login, Flask-WTF, JWT
+- **Reporting:** ReportLab, Pillow
+
+<p align="center">
+  <a href="TU_DEMO">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/SaulSantor/bitacora-psicologos">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🧠 Serenity App
+### 🌱 Serenity App
 
-A multidisciplinary mental wellness ecosystem that integrates a mobile application, web dashboard, and IoT hardware to monitor biometric data in real time.
+Mental wellness ecosystem integrating mobile, web, and IoT technologies for real-time biometric monitoring.
+
+#### Key Features
+
+- ❤️ Heart rate monitoring
+- 🌬️ Breathing analysis
+- 📱 Mobile application
+- 🌐 Web dashboard
+- 📊 Real-time biometric tracking
 
 <p align="center">
-  <img src="./assets/serenity-preview.png" width="800"/>
+  <img src="./assets/serenity-preview.png" width="850"/>
 </p>
 
-**Tech Stack**
-- **Mobile App:** React Native, JavaScript, Custom CSS
-- **Web App:** React, HTML5, CSS3, JavaScript
-- **Backend & API:** Python, Flask (RESTful API architecture)
-- **Database:** MongoDB (NoSQL tailored for continuous biometric streams)
-- **IoT & Hardware:** C/C++ firmware for microcontrollers, Heart Rate & Respiration sensors
+#### Tech Stack
 
-<a href="TU_DEMO_SERENITY">Live Demo</a> •
-<a href="https://github.com/SaulSantor/serenity-app">Repository</a>
+- **Mobile:** React Native, JavaScript
+- **Web:** React, HTML5, CSS3
+- **Backend:** Python, Flask REST API
+- **Database:** MongoDB
+- **Hardware:** C/C++, Biometric Sensors
+
+<p align="center">
+  <a href="TU_DEMO_SERENITY">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/SaulSantor/serenity-app">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -148,6 +194,16 @@ A multidisciplinary mental wellness ecosystem that integrates a mobile applicati
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaulSantor&theme=tokyo-night"/>
 
 </div>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://mi-portfolio-roan-delta.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/santor080602/">LinkedIn</a> •
+  <a href="mailto:saulsantor0806@gmail.com">Email</a>
+</p>
 
 ---
 
