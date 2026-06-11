@@ -81,21 +81,41 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 ## 🚀 Featured Projects
 
-### 🧠 PsychCalendar
+### 📅 PsychCalendar (bitacora-psicologos)
 
-Mental wellness platform focused on emotional tracking, organization, and personal growth.
+An automated management and clinic-log platform tailored for mental health professionals, streamlining patient scheduling and digital record-keeping.
 
 <p align="center">
   <img src="./assets/psychcalendar-preview.png" width="800"/>
 </p>
 
 **Tech Stack**
-- React
-- TypeScript
-- Tailwind CSS
+- **Backend:** Python, Flask, SQLAlchemy (ORM), Alembic (Migrations)
+- **APIs & Integrations:** Google Calendar API (OAuth2), Twilio API (SMS/WhatsApp automated reminders)
+- **Data & Security:** Flask-Login, Flask-WTF (CSRF Protection), PyJWT, pyodbc
+- **Reporting:** ReportLab (Dynamic PDF generation), Pillow
 
 <a href="TU_DEMO">Live Demo</a> •
-<a href="TU_REPO">Repository</a>
+<a href="https://github.com/SaulSantor/bitacora-psicologos">Repository</a>
+
+---
+
+### 🧠 Serenity App
+
+A multidisciplinary mental wellness ecosystem that integrates a mobile application, web dashboard, and IoT hardware to monitor biometric data in real time.
+
+<p align="center">
+  <img src="./assets/serenity-preview.png" width="800"/>
+</p>
+
+**Tech Stack**
+- **Frontend & Mobile:** React Native, React, JavaScript, Custom CSS
+- **Backend & API:** Python, Flask (RESTful API architecture)
+- **Database:** MongoDB (NoSQL tailored for continuous biometric streams)
+- **IoT & Hardware:** C/C++ firmware for microcontrollers, Heart Rate & Respiration sensors
+
+<a href="TU_DEMO_SERENITY">Live Demo</a> •
+<a href="https://github.com/SaulSantor/serenity-app">Repository</a>
 
 ---
 
@@ -113,7 +133,7 @@ Productivity and habit-building application designed to improve daily routines.
 - Tailwind CSS
 
 <a href="TU_DEMO">Live Demo</a> •
-<a href="TU_REPO">Repository</a>
+<a href="https://github.com/SaulSantor/serenity-app">Repository</a>
 
 ---
 
