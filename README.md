@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Saul Sanchez Banner" />
+  <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/1d81028c-85c1-4a7e-ac63-7463c815bcb4" />
 </p>
 
 <h1 align="center">Hi, I'm Saul 👋</h1>
