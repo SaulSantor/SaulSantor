@@ -13,6 +13,10 @@ Passionate about building modern, scalable and user-friendly web applications.
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning.+Always+building." />
+</p>
+
+<p align="center">
   <a href="https://mi-portfolio-roan-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -28,7 +32,29 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
+
+```javascript
+const saul = {
+  location: "Chihuahua, Mexico 🇲🇽",
+  role: "Frontend Developer",
+  education: "Computer Engineering Student",
+  mainStack: ["React", "Next.js", "TypeScript"],
+  backend: ["Python", "Flask", "FastAPI"],
+  databases: ["MongoDB", "MySQL"],
+  currentlyLearning: [
+    "Full Stack Development",
+    "Software Architecture"
+  ],
+  interests: [
+    "Web Development",
+    "UI/UX Design",
+    "Clean Code",
+    "Technology"
+  ],
+  motto: "Always learning. Always building."
+};
+```
 
 I'm a Frontend Developer focused on creating modern web experiences through clean code, intuitive interfaces, and scalable solutions.
 
@@ -36,40 +62,40 @@ Currently studying Computer Engineering while continuously improving my skills i
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- ⚛️ React & Next.js
-- 🔷 TypeScript
-- 🎨 UI/UX Design
-- 🚀 Full Stack Development
-- 🏗️ Software Architecture
-- 📚 Continuous Learning
+- ⚛️ Building applications with React & Next.js
+- 🔷 Writing scalable TypeScript code
+- 🎨 Creating modern UI/UX experiences
+- 🚀 Expanding Full Stack Development skills
+- 🏗️ Learning Software Architecture
+- 📚 Continuous learning and project building
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,nodejs,fastapi,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
 
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 PsychCalendar
 
-Mental wellness platform focused on emotional tracking, organization and personal growth.
+Mental wellness platform focused on emotional tracking, organization, and personal growth.
 
 ### 🌱 Serenity
 
-Productivity and habit-building application designed to improve daily routines.
+Productivity and habit-building application designed to improve daily routines and personal development.
 
 ### 🌐 Portfolio
 
-Personal website showcasing projects, skills and experience.
+Personal website showcasing my projects, skills, and professional journey.
 
 <div align="center">
 
@@ -85,7 +111,7 @@ Personal website showcasing projects, skills and experience.
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -105,7 +131,7 @@ Personal website showcasing projects, skills and experience.
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -115,8 +141,20 @@ Personal website showcasing projects, skills and experience.
 
 ---
 
+## 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://mi-portfolio-roan-delta.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/santor080602/">LinkedIn</a> •
+  <a href="mailto:saulsantor0806@gmail.com">Email</a>
+</p>
+
+---
+
 <div align="center">
 
 ### Always learning. Always building.
+
+*"Turning ideas into modern web experiences."*
 
 </div>
