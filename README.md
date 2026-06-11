@@ -1,120 +1,85 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2c2pwMHNwd2gzOGNudGI2ejhpazF6bjJxajNieW0xcGlpbWtodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2c2pwMHNwd2gzOGNudGI2ejhpazF6bjJxajNieW0xcGlpbWtodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="320"/>
 
 # Saul Sánchez
 
-### Frontend Developer • Computer Engineering Student
+### Frontend Developer
 
-Building modern, responsive and user-centered web experiences.
+Building modern, responsive and user-focused web experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning+something+new" />
+<p>
+  <a href="https://mi-portfolio-roan-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-<br>
+  <a href="https://www.linkedin.com/in/santor080602/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://mi-portfolio-roan-delta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:tu_correo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/santor080602/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:saul.sanchez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-```javascript
-const saul = {
-  location: "Chihuahua, Mexico 🇲🇽",
-  role: "Frontend Developer",
-  education: "Computer Engineering Student",
-  mainStack: ["React", "Next.js", "TypeScript"],
-  currentlyLearning: ["Full Stack Development", "Software Architecture"],
-  interests: [
-    "Web Development",
-    "UI/UX",
-    "Clean Code",
-    "Technology"
-  ]
-};
-```
+Frontend Developer and Computer Engineering student passionate about creating digital products that combine clean code, intuitive interfaces, and great user experiences.
 
-I enjoy transforming ideas into real digital products through clean code, intuitive interfaces, and modern technologies.
-
-My primary focus is Frontend Development, creating responsive and user-friendly applications while continuously expanding my backend knowledge.
+My primary focus is React, Next.js and TypeScript, while continuously expanding my knowledge in backend development, software architecture, and scalable applications.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Building impactful real-world projects
-- Deepening React & Next.js expertise
-- Learning scalable backend development
-- Writing cleaner and maintainable code
-- Improving UI/UX design skills
-
----
-
-## ⚡ Tech Stack
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,arduino" />
-</p>
+- Building real-world applications
+- Advanced React & Next.js
+- Full Stack Development
+- Software Architecture
+- UI/UX Design
+- Clean Code Practices
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### Portfolio
+<div align="center">
 
-Personal website where I showcase my projects, skills, and experience.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,flask,mongodb,mysql,postgresql,git,github,figma,vscode,vercel" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🧠 PsychCalendar
+
+Mental wellness platform focused on emotional tracking, self-reflection, and personal growth.
+
+### 🌱 Serenity
+
+Productivity and habit-building application designed to help users improve their daily routines.
+
+### 🌐 Portfolio
+
+Personal website showcasing projects, skills, and professional growth.
 
 <a href="https://github.com/SaulSantor/mi-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=mi-portfolio&theme=tokyonight" />
 </a>
 
-### Serenity
-
-Productivity and self-improvement platform.
-
 <a href="https://github.com/SaulSantor/serenity-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=serenity-app&theme=tokyonight" />
 </a>
 
-### PsychCalendar
-
-Mental wellness platform focused on emotional tracking and personal growth.
-
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -128,13 +93,13 @@ Mental wellness platform focused on emotional tracking and personal growth.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SaulSantor&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=SaulSantor&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
@@ -144,20 +109,8 @@ Mental wellness platform focused on emotional tracking and personal growth.
 
 ---
 
-## 🐍 Contributions Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### "Turning ideas into modern web experiences."
-
-⭐ If you like my projects, feel free to explore my repositories.
+### Turning ideas into modern web experiences.
 
 </div>
