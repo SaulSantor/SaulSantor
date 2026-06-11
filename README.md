@@ -1,14 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" alt="Saul Sanchez Banner" />
+</p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2c2pwMHNwd2gzOGNudGI2ejhpazF6bjJxajNieW0xcGlpbWtodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="320"/>
+<h1 align="center">Hi, I'm Saul 👋</h1>
 
-# Saul Sánchez
+<p align="center">
+Frontend Developer • Computer Engineering Student
+</p>
 
-### Frontend Developer
+<p align="center">
+Passionate about building modern, scalable and user-friendly web applications.
+</p>
 
-Building modern, responsive and user-focused web experiences.
-
-<p>
+<p align="center">
   <a href="https://mi-portfolio-roan-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -17,31 +21,29 @@ Building modern, responsive and user-focused web experiences.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:saul.sanchez@gmail.com">
+  <a href="mailto:saulsantor0806@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-</div>
-
 ---
 
-## About
+## About Me
 
-Frontend Developer and Computer Engineering student passionate about creating digital products that combine clean code, intuitive interfaces, and great user experiences.
+I'm a Frontend Developer focused on creating modern web experiences through clean code, intuitive interfaces, and scalable solutions.
 
-My primary focus is React, Next.js and TypeScript, while continuously expanding my knowledge in backend development, software architecture, and scalable applications.
+Currently studying Computer Engineering while continuously improving my skills in frontend architecture, backend development, and software engineering.
 
 ---
 
 ## Current Focus
 
-- Building real-world applications
-- Advanced React & Next.js
-- Full Stack Development
-- Software Architecture
-- UI/UX Design
-- Clean Code Practices
+- ⚛️ React & Next.js
+- 🔷 TypeScript
+- 🎨 UI/UX Design
+- 🚀 Full Stack Development
+- 🏗️ Software Architecture
+- 📚 Continuous Learning
 
 ---
 
@@ -59,23 +61,27 @@ My primary focus is React, Next.js and TypeScript, while continuously expanding 
 
 ### 🧠 PsychCalendar
 
-Mental wellness platform focused on emotional tracking, self-reflection, and personal growth.
+Mental wellness platform focused on emotional tracking, organization and personal growth.
 
 ### 🌱 Serenity
 
-Productivity and habit-building application designed to help users improve their daily routines.
+Productivity and habit-building application designed to improve daily routines.
 
 ### 🌐 Portfolio
 
-Personal website showcasing projects, skills, and professional growth.
+Personal website showcasing projects, skills and experience.
+
+<div align="center">
 
 <a href="https://github.com/SaulSantor/mi-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=mi-portfolio&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=mi-portfolio&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/SaulSantor/serenity-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=serenity-app&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulSantor&repo=serenity-app&theme=tokyonight"/>
 </a>
+
+</div>
 
 ---
 
@@ -111,6 +117,6 @@ Personal website showcasing projects, skills, and professional growth.
 
 <div align="center">
 
-### Turning ideas into modern web experiences.
+### Always learning. Always building.
 
 </div>
