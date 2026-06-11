@@ -87,7 +87,7 @@ Currently studying Computer Engineering while building real-world applications a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,mysql,git,github,vscode,figma,vercel,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,fastapi,nodejs,mongodb,git,github,vscode,figma,vercel,arduino" />
 
 </div>
 
@@ -194,16 +194,6 @@ Mental wellness ecosystem integrating mobile, web, and IoT technologies for real
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaulSantor&theme=tokyo-night"/>
 
 </div>
-
----
-
-## 🌎 Connect With Me
-
-<p align="center">
-  <a href="https://mi-portfolio-roan-delta.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/santor080602/">LinkedIn</a> •
-  <a href="mailto:saulsantor0806@gmail.com">Email</a>
-</p>
 
 ---
 
